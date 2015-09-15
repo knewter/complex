@@ -2,8 +2,10 @@ Complex
 =======
 
 Example of ports as in http://erlang.org/doc/tutorial/c_port.html.  This is an
-[ElixirSips](http://elixirsips.com) episode (194), and here's the script for the episode.  Just playing
-around with fun stuff :)
+[ElixirSips](http://elixirsips.com) episode (194), and below you'll find the
+video and the script for the episode.  Just playing around with fun stuff :)
+
+[![player_image](./priv/video_screenshot.png)](http://elixirsips.com/episodes/194_interoperability_ports.html)
 
 ## Episode 194: Interoperability - Ports
 
